@@ -1,13 +1,12 @@
-1.3.6
-( + ) &k support to font renderer
-( + ) textbox option
-( + ) new chams
-( + ) colorpicker is now hsla instead of hsb
-( + ) targetstrafe has better modes
-( // ) 1.3.7 will have a re-made movement section its kinda shit rn
-( - ) cape physics 
-( - ) removed singleplayer button
-( + ) added oldncp ground speed
-( + ) added timerspeed to speed (thanks ipana)
-( // ) changed mode selection
-( // ) cooler hud
+( + ) &k support to font renderer$
+( + ) textbox option$
+( + ) new chams$
+( + ) colorpicker is now hsla instead of hsb$
+( + ) targetstrafe has better modes$
+( // ) 1.3.7 will have a re-made movement section its kinda shit rn$
+( - ) cape physics$
+( - ) removed singleplayer button$
+( + ) added oldncp ground speed$
+( + ) added timerspeed to speed (thanks ipana)$
+( // ) changed mode selection$
+( // ) cooler hud$

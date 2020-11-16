@@ -1,7 +1,7 @@
 ( + ) expand option to scaffold (extremely buggy)
 ( // ) re-made criticals
 ( - ) reverted the blur @ clickgui
-( - ) physics cape again because fucks fps
+( - ) physics cape (more info later)
 ( + ) better safe collector
 ( + ) chat settings @ render
 ( // ) fixed the potion @ regen

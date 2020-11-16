@@ -6,7 +6,7 @@
 ( + ) chat settings @ render
 ( // ) fixed the potion @ regen
 ( // ) fixed tick calculation @ fastuse
-( // ) if you had no tools you would crash @ autotool
+( // ) if you had no items you would crash @ autotool
 ( // ) fixed fly mode @ crasher
 ( // ) fixed negative ping @ pingspoof (kinda)
 ( + ) damagehit @ render, buggy as fuck

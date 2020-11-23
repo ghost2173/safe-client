@@ -7,7 +7,7 @@
 ( // ) re-made criticals
 ( - ) reverted the blur @ clickgui
 ( - ) physics cape (again)
-( // ) fixed modulemanager
+( // ) modulemanager now uses a better list implementation
 ( + ) chat settings @ render
 ( // ) fixed the potion @ regen
 ( // ) fixed tick calculation @ fastuse

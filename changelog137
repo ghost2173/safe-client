@@ -1,5 +1,5 @@
 ( + ) expand option to scaffold (buggy)
-( + ) eagle option to scaffold
+( + ) eagle option to scaffold$
 ( + ) added hurttime (thanks ipana)
 ( + ) jumpingtest can now be used
 ( // ) fixed headrotation 
@@ -7,7 +7,7 @@
 ( // ) re-made criticals
 ( - ) reverted the blur @ clickgui
 ( - ) physics cape (again)
-( // ) fixed modulemanager
+( // ) fixed modulemanager$$
 ( + ) chat settings @ render
 ( // ) fixed the potion @ regen
 ( // ) fixed tick calculation @ fastuse

@@ -1,13 +1,19 @@
-( + ) expand option to scaffold (extremely buggy)
+( + ) expand option to scaffold (buggy)
+( + ) eagle option to scaffold
+( + ) added hurttime (thanks ipana)
+( + ) jumpingtest can now be used
+( // ) fixed headrotation 
+( // ) fixed seriex anticrasher
 ( // ) re-made criticals
 ( - ) reverted the blur @ clickgui
-( - ) physics cape (more info later)
-( + ) better safe collector
+( - ) physics cape (again)
+( // ) fixed modulemanager
 ( + ) chat settings @ render
 ( // ) fixed the potion @ regen
 ( // ) fixed tick calculation @ fastuse
 ( // ) if you had no items you would crash @ autotool
 ( // ) fixed fly mode @ crasher
+( // ) fixed speed & longjump not working with jump boost
 ( // ) fixed negative ping @ pingspoof (kinda)
 ( + ) damagehit @ render, buggy as fuck
 ( + ) blinklag @ movement
@@ -15,5 +21,5 @@
 ( + ) longjump @ movement
 ( + ) new ncp bhop @ speed, should work on servers with good configs
 ( + ) step @ movement
-( + ) finally a good fucking fly @ movement
-( - ) sleepingcats support, working on a new screenshot system for minecraft
+( + ) wtf fly @ movement
+( + ) new screenshot system for minecraft & catgirls.sexy support

@@ -6,7 +6,7 @@
 ( // ) fixed seriex anticrasher
 ( // ) re-made criticals
 ( - ) reverted the blur @ clickgui
-( - ) physics cape (again)
+( + ) physics cape without fps drops 
 ( // ) modulemanager now uses a better list implementation
 ( + ) chat settings @ render
 ( // ) fixed the potion @ regen

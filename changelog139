@@ -1,0 +1,11 @@
+( // ) ported the client to 1.8.10
+( // ) fixed garbage fps drops
+( // ) i added a lot of things im too lazy to write
+( + ) durability spoof
+( + ) trajectories
+( + ) enderoyuncu morepackets disabler
+( + ) fps boost module
+( + ) prediction to targetstrafe
+( + ) keepsprint mode to aura
+( + ) keep-y
+( - ) expand at scaffold

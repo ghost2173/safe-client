@@ -1,0 +1,18 @@
+( // ) fixed all capes creating a memory leak
+( // ) re-made autopotion
+( // ) fixed single & switch on killaura
+( // ) fixed item textures being broken
+( // ) changed client login feature
+( // ) fixed durability spoof not working if you enabled dura on killaura
+( // ) fixed boatfly
+( + ) new highjump
+( + ) added hurttime to single & switch
+( + ) expand to scaffold
+( + ) silent autotool
+( + ) new clickgui
+( + ) new fly modes
+( + ) new speed modes
+( + ) legit on killaura
+( + ) latestncp bow damage & damageless longjump
+( - ) aac5 on killaura
+( - ) enderoyuncu phase & speed

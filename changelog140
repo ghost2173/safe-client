@@ -1,18 +1,62 @@
 ( // ) fixed all capes creating a memory leak
 ( // ) re-made autopotion
+( // ) fixed complexer fucking your fps
 ( // ) fixed single & switch on killaura
 ( // ) fixed item textures being broken
-( // ) changed client login feature
+( // ) changed client login feature & faster login
 ( // ) fixed durability spoof not working if you enabled dura on killaura
+( // ) fixed transparency at fontrenderer(s) & hud
+( // ) fixed disable light updates on fullbright
+( // ) fixed safe clickgui with multiple panels on top
+( // ) fixed player hurttime getting fucked
 ( // ) fixed boatfly
-( + ) new highjump
+( // ) fixed killaura targetesp interpolation
+( // ) fixed minez & ncp step flagging on certain y coords (thanks ipana)
+( // ) fixed hackerdetect flagging on carpets
+( // ) fixed a shit ton of monitor resolution related bugs hopefully (thanks yorgun & onur)
+( // ) fixed forceupdate in killaura
+( // ) fixed antibot
+( // ) fixed lowhop block detection
+( // ) fixed "AURA KAYIYO OROSPU COCUGU" -Onur
+( // ) fixed blink packet limiter not working correctly
+( // ) fixed click-tp crashing the game
+( // ) fixed targetstrafe not finding the best path
+( // ) fixed jesus/liquidwalk falldistance bugs
+( // ) fixed glide calculation in fly
+( // ) fixed worldrenderer dying sometimes
+( // ) fixed fastrender killing vbo & messing with fontrenderer(s)
+( // ) now enabling slow-mining on effects will damage you slowly instead of removing the effect clientside
+( // ) changed spawner-esp colors
+( // ) fixed cheststealer kicking
+( // ) fixed shader related issues
+( // ) fixed winternw morepackets flag (insane hakan abi moment)
+( + ) void-bounce
+( + ) you can move targethud & scoreboard while the chat is open
+( + ) new targetesp to killaura
+( + ) hurtsound 
+( + ) packetcounter
+( + ) streamer mode
+( + ) nofall check to hackerdetect
+( + ) advanced rotations to killaura
+( + ) funny fly
+( + ) view-bobbing to fly
+( + ) reloadfont command
+( + ) higher option to highjump
+( + ) new killsult messages
+( + ) fixed jumpboost calculation (thanks ipana)
+( + ) arraylist animation to hud
+( + ) player-desync (not finished)
+( + ) new pingspoof
+( + ) more particles to killaura
 ( + ) added hurttime to single & switch
 ( + ) expand to scaffold
 ( + ) silent autotool
-( + ) new clickgui
 ( + ) new fly modes
 ( + ) new speed modes
-( + ) legit on killaura
+( + ) legit to killaura
 ( + ) latestncp bow damage & damageless longjump
-( - ) aac5 on killaura
-( - ) enderoyuncu phase & speed
+( + ) enderoyuncu phase & speed (re-added)
+( - ) aac5 at killaura
+( - ) choke at pingspoof
+( - ) smart at inventoryhelper (now enabled by default)
+( - ) hey babe *shits aggresively*

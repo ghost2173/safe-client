@@ -5,6 +5,7 @@
 ( // ) fixed item textures being broken
 ( // ) changed client login feature & faster login
 ( // ) fixed durability spoof not working if you enabled dura on killaura
+( // ) fixed durability spoof calculations
 ( // ) fixed transparency at fontrenderer(s) & hud
 ( // ) fixed disable light updates on fullbright
 ( // ) fixed safe clickgui with multiple panels on top
@@ -17,29 +18,45 @@
 ( // ) fixed forceupdate in killaura
 ( // ) fixed antibot
 ( // ) fixed lowhop block detection
+( // ) fixed targetstrafe circle interpolation being broken
 ( // ) fixed "AURA KAYIYO OROSPU COCUGU" -Onur
+( // ) fixed "abi speed takılıyo" -jakless
 ( // ) fixed blink packet limiter not working correctly
 ( // ) fixed click-tp crashing the game
 ( // ) fixed targetstrafe not finding the best path
 ( // ) fixed jesus/liquidwalk falldistance bugs
 ( // ) fixed glide calculation in fly
 ( // ) fixed worldrenderer dying sometimes
+( // ) fixed speed flagging on winternw
+( // ) fixed clickgui resolution bug or smth idk
+( // ) fixed timerless hurttime calculation
+( // ) fixed highjump jump boost calculation
+( // ) fixed killaura flagging while stepping
 ( // ) fixed fastrender killing vbo & messing with fontrenderer(s)
 ( // ) now enabling slow-mining on effects will damage you slowly instead of removing the effect clientside
 ( // ) changed spawner-esp colors
+( // ) changed user info at hud
 ( // ) fixed cheststealer kicking
 ( // ) fixed shader related issues
 ( // ) fixed winternw morepackets flag (insane hakan abi moment)
 ( + ) void-bounce
 ( + ) you can move targethud & scoreboard while the chat is open
 ( + ) new targetesp to killaura
-( + ) hurtsound 
+( + ) hurtsound
+( + ) 3.11.1 dolphin
+( + ) ping to hud
 ( + ) packetcounter
-( + ) streamer mode
+( + ) streamer mode (hides login and coords)
 ( + ) nofall check to hackerdetect
 ( + ) advanced rotations to killaura
 ( + ) funny fly
 ( + ) view-bobbing to fly
+( + ) new cape
+( + ) block check distance to targetstrafe
+( + ) added %r%, %rfirst%, %lgbtq%, %flux%, %version% to hudtext
+( + ) added 3 way gradient to hud colormode
+( + ) added very smooth rainbow to hud colormode
+( + ) disable jumping on minez & onground speedmodes
 ( + ) reloadfont command
 ( + ) higher option to highjump
 ( + ) new killsult messages
@@ -58,5 +75,6 @@
 ( + ) enderoyuncu phase & speed (re-added)
 ( - ) aac5 at killaura
 ( - ) choke at pingspoof
+( - ) a few easter eggs
 ( - ) smart at inventoryhelper (now enabled by default)
 ( - ) hey babe *shits aggresively*
